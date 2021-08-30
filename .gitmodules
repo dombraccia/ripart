@@ -1,0 +1,3 @@
+[submodule "ripart.github.io"]
+	path = ripart.github.io
+	url = https://github.com/dombraccia/ripart.github.io.git
