@@ -1,6 +1,6 @@
 +++
-image = "https://github.com/dombraccia/ripart/raw/master/static/img/portfolio/sam.jpeg"
-showonlyimage = true
+image = "https://github.com/dombraccia/ripart/raw/main/static/img/portfolio/sam.jpeg"
+showonlyimage = false
 draft = false
 date = "2021-08-28"
 title = "SAM"

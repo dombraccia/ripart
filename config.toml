@@ -1,4 +1,4 @@
-baseurl = "https://rip-art.com/"
+bmmaseurl = "https://rip-art.com/"
 publishDir = "ripart.github.io"
 title = "Reena Philips"
 theme = "hugo-creative-portfolio-theme"
@@ -15,8 +15,8 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-  "I am deviation writer for a pharmaceutical manufacturer. In my spare time I like to make art. I am an art hoe.",
-"ART HOE = a gal who loves to create art within many mediums"
+  "I am a freelance artist based in Maryland. I like to make art in many mediums including colored pencil, water color, sculpey, lenolium printing, acrylic paint, and shrinkey dink.",
+"Together we can make your ideas into custom pieces to be added into personal collections or gifted."
 ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -30,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "example@test.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -43,7 +43,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Recent Works"
+  name = "Recent Works (2016 / Present)"
   url = "portfolio/"
   home = true
 
@@ -56,12 +56,21 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
-  name = "Print Making"
-  url = "print-making-portfolio/"
+  name = "Murals"
+  url = "murals/"
 
   [[params.navlinks]]
-  name = "High School"
-  url = "hs-portfolio/"
+  name = "Print Making"
+  url = "print-making/"
+
+  [[params.navlinks]]
+  name = "Self Portraits"
+  url = "self-portraits/"
+
+  [[params.navlinks]]
+  name = "Early Works (2009 / 2016)"
+  url = "early-works/"
+
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
