@@ -1,5 +1,5 @@
 +++
-image = "https://github.com/dombraccia/ripart/raw/master/static/img/portfolio/stitching.jpeg"
+image = "https://github.com/dombraccia/ripart/raw/main/static/img/portfolio/stitching.jpeg"
 showonlyimage = true
 draft = false
 date = "2021-08-28T19:53:42+05:30"
