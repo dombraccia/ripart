@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2021-08-28T19:53:42+05:30"
 title = "WALL PIECE"
-weight = 1
+weight = 7
 +++
 
 thumbnail

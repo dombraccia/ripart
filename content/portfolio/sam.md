@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2021-08-28"
 title = "SAM"
-weight = 1
+weight = 3
 +++
 
 9" x 13.5" watercolor and colored pencil
