@@ -3,7 +3,7 @@ image = "https://github.com/dombraccia/ripart/raw/main/static/img/portfolio/wavy
 showonlyimage = true
 draft = false
 date = "2021-08-28T19:53:42+05:30"
-title = "LUNA"
+title = "WAVY WATERS"
 weight = 1
 +++
 

@@ -1,0 +1,16 @@
++++
+image = "https://github.com/dombraccia/ripart/raw/main/static/img/portfolio/bella.jpeg"
+showonlyimage = true
+draft = false
+date = "2021-08-28T19:53:42+05:30"
+title = "BELLA"
+weight = 2 
++++
+
+thumbnail
+
+<!--more-->
+
+body
+
+
