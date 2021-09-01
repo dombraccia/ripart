@@ -44,32 +44,32 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Recent Works (2016 / Present)"
-  url = "portfolio/"
+  url = "portfolio"
   home = true
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = "about"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = "contact"
 
   [[params.navlinks]]
   name = "Murals"
-  url = "murals/"
+  url = "murals"
 
   [[params.navlinks]]
   name = "Print Making"
-  url = "print-making/"
+  url = "print-making"
 
   [[params.navlinks]]
   name = "Self Portraits"
-  url = "self-portraits/"
+  url = "self-portraits"
 
   [[params.navlinks]]
   name = "Early Works (2009 / 2016)"
-  url = "early-works/"
+  url = "early-works"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
