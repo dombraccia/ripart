@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2021-08-28"
 title = "DEX AND EVA"
-weight = 2 
+weight = 6 
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
